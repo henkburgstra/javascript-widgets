@@ -261,3 +261,7 @@ body {
 .widget-body {
 	padding: 3px 3px;
 }
+
+.widget-body input {
+	color: black;
+}
